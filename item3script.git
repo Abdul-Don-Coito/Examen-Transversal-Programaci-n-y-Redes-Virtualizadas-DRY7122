@@ -1,5 +1,1 @@
-git init
-git add item_3_script.py
-git commit -m "Agregar el script Flask para gestionar usuarios y contraseñas"
-git remote add origin https://github.com/Abdul-Don-Coito/item3script.git
-git push -u origin master
+
